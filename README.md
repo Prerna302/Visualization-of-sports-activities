@@ -40,7 +40,9 @@ Our project basically has 5 scenes
 - Game Over in Case bot wins
 - Game over in case Player wins
 ![gameover](https://user-images.githubusercontent.com/83298366/231589056-7ead4282-bdc9-449f-bb83-e014701b4cab.png)
-
+![Screenshot (47)](https://user-images.githubusercontent.com/83298366/231589649-083f05e7-4f31-4a8b-93a8-5d3a186e8ff2.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/83298366/231589702-552d054f-af2a-4e72-8e50-d5a4f21d2f2b.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/83298366/231589757-fb7c0688-b652-4e39-8f80-da5d61bbf35e.png)
 ### Switching between scenes
 ```sh
 Application.LoadLevel(scenename);
