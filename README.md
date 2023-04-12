@@ -10,9 +10,10 @@
 ### "Visualisation Of Sports Activities” is a real-time 3D graphical application which intends to connect the outer world to Banasthali so that they can visualise the sports activities carried in our university. This application helps in :
 - Connecting with Banasthali in a more deep way.
 - Fantasizing Banasthali sports activities.
-- Helping the parents and new students to know about Banasthali in a easy way at the time of     orientation.
+- Helping the parents and new students to know about Banasthali in a easy way at the time of orientation.
 
-
+This application is mainly designed for Banasthali users in order to experience the five-fold activities.Currently we are working on the visualization of horse-riding activity and tennis by using Unity software and C# scripting language. It will also provide the 3-D and animated view of Veer Bala Maidan(VBM).
+This application can be used by the  Banasthali administration for orientation purpose. 
 ## Tech
 
 We have used :
