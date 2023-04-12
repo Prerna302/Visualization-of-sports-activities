@@ -2,7 +2,7 @@
 # Visualization of Sports Activites
  A visulazation of sports activities conducted in Banasthali Vidyapith. It for now have horse riding and lawn tennis activities,
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
+![Screenshot 2023-04-11 231114](https://user-images.githubusercontent.com/83298366/231589120-3a7d3aee-5683-467d-aba9-77376499063d.png)
 
 
 
@@ -39,6 +39,7 @@ Our project basically has 5 scenes
 - Lawn Tennis Screen
 - Game Over in Case bot wins
 - Game over in case Player wins
+![gameover](https://user-images.githubusercontent.com/83298366/231589056-7ead4282-bdc9-449f-bb83-e014701b4cab.png)
 
 ### Switching between scenes
 ```sh
