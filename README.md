@@ -2,7 +2,7 @@
 # Visualization of Sports Activites
  A visulazation of sports activities conducted in Banasthali Vidyapith. It for now have horse riding and lawn tennis activities,
 
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif">
 
 
 
