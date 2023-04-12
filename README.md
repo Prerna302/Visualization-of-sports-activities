@@ -95,6 +95,5 @@ playerScoreText.text = "Player : " + playerScore;
 
 ### Deployment
  Unity Software allows us to deploy  our application for various platforms. We are deploying it for pc/max/linux.
-## License
 
-**Free Software, Hell Yeah!**
+- 📫 How to reach me ****
