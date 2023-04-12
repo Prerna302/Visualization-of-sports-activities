@@ -96,4 +96,4 @@ playerScoreText.text = "Player : " + playerScore;
 ### Deployment
  Unity Software allows us to deploy  our application for various platforms. We are deploying it for pc/max/linux.
 
-- 📫 How to reach me ****
+- 📫 Check our work at **https://github.com/Prerna302/Visualization-of-sports-activities**
